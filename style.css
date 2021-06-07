@@ -1,0 +1,35 @@
+.form-label{
+    color: cadetblue;
+}
+.container-fluid{
+   width: 50%;
+    margin-left: 20px;
+}
+.form-control{
+    width: 50%;
+}
+.card-body{
+   height: 300px;
+    margin-left: 25px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    margin-left: 20px;
+}
+.card-img-top{
+    margin-bottom: 20px;
+}
+.card-text{
+   font-size: 18px;
+
+}
+.btn-primary{
+    padding: 16px 26px;
+    border: 2px solid;
+    border-radius: 8px;
+    background: gray;
+}
